@@ -1,0 +1,14 @@
+----------------------------------
+ LOGIN ATTEMPT SECURITY REPORT 
+ --------------------------------
+
+Total Login Attempts :- 11 
+Total Failed Attempts :- 8
+
+Suspicious Users :-
+user2 :- 3 Failed attempts
+user3 :- 4 Failed attempts
+
+Conclusion :-
+Potential brute-force login attempt detected
+
